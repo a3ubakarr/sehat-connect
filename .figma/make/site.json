@@ -1,0 +1,10 @@
+{
+  "description": "Coordinate healthcare for family in Pakistan from abroad with connected appointments, health records, lab reports, prescriptions and care reminders.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
